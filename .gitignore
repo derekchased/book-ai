@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+.idea/
+__pycache__/
+segmentation/images/debug/*
+pipeline_test_output/*
+bookai_env/*
